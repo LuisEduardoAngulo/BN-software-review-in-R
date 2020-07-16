@@ -1,4 +1,5 @@
-# Bayesian Network software review in R enviroment
+# Bayesian Network software review in R environment
+======
 
 In this repository, you will find a software review about the most popular R packages to deal with Bayesian Network modeling. By performing an exhaustive examination of the users and functions manuals from the considered packages an overview regarding their functionalities, approaches, methods, algorithms, limitations, and added value, among others, is provided. Also, each of these packages was tested in the R environment using standards datasets to assess the points mentioned above.
 
@@ -27,4 +28,16 @@ Note : The downloads were obtained using R **cranlogs** package
 *** from October 2019 until March 2020
 
 
+# References
+-----
+* Aragam, B., Gu, J., y Zhou, Q. (2019). Learning Large-Scale Bayesian Networks with the sparsebn Package. Journal of Statistical Software, 91(11), 1–38.
+* Balov, N., y Salzman, P. (2020). “How to use the catnet package”. Recuperado 30 de abril de 2020, de https://cran.r-project.org/web/packages/catnet/index.html.
+* Boettcher, S., y Dethlefsen, C. (2003). deal: A Package for Learning Bayesian Networks. Journal of Statistical Software, 8(20), 1-40.
+* Højsgaard, S. (2012). Graphical Independence Networks with the gRain Package for R. Journal of Statistical Software, 46(10), 1–26.
+* Kalisch, M., Mächler, M., Colombo, D., Hauser, A., Maathuis, M., y Bühlmann, P. (2014). More Causal Inference with Graphical Models in R Package pcalg. Recuperado 10 de mayo de 2020, de https://cran.r-project.org/web/packages/pcalg/index.html.
+* Mihaljevic, B., Bielza, C., y Larrañaga, P. (2018). bnclassify: Learning Bayesian Network Classifiers. The R Journal, 10(2), 455–468.
+* Sambo, F., y Franzini, A. (2019). bnstruct: an R package for Bayesian Network structure learning with missing data. Recuperado 25 de abril de 2020, de https://cran.r-project.org/web/packages/bnstruct/index.html.
+* Scutari, M. (2010). Learning Bayesian Networks with the bnlearn R Package. Journal of Statistical Software, 35(3), 1-22.
+* Yu, H., Moharil, J., y Blair, R. (2019). BayesNetBP: An R package for probabilistic reasoning in Bayesian Networks. Recuperado 27 de mayo de 2020, de
+https://www.researchgate.net/publication/336859662_BayesNetBP_An_R_package_for_probabilistic_reasoning_in_Bayesian_Networks.
 
