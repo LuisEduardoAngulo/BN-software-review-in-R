@@ -1,5 +1,5 @@
 # Bayesian Network software review in R environment
-====
+-----
 
 In this repository, you will find a software review about the most popular R packages to deal with Bayesian Network modeling. By performing an exhaustive examination of the users and functions manuals from the considered packages an overview regarding their functionalities, approaches, methods, algorithms, limitations, and added value, among others, is provided. Also, each of these packages was tested in the R environment using standards datasets to assess the points mentioned above.
 
