@@ -10,13 +10,14 @@ According to the task that they tackle in the modeling process, the packages can
 | -- | -- | -- |
 | catnet | 1.15.7 | 2010 | 2020 | 49,603 | 6,858 |
 | sparsebn | 0.1.0 | 2016 | 2019 | 12,116 | 3,179 |
-| pcalg | 2.6.10 | 2006 | 2020 | 89,004 |	13,598 |
+| pcalg | 2.6.10 | 2006 | 2020 | 89,004 | 13,598 |
 | deal | 1.2.39 | 2002	| 2018 | 53,857 | 6,358 |
 | bnclassify | 0.4.5 | 2015 | 2020 | 27,325 | 5,528 |
 | bnstruct | 1.0.6 | 2016 | 2019 | 27,226 | 4,717 |
 | bnlearn | 4.5 | 2007 | 2019 | 259,676 | 40,783 |
 | gRain | 1.3.4 | 2008 | 2020 | 114,351 | 22,196 |
 | BayesNetBP | 1.4.0 | 2017 | 2018 | 13,833 |	3,106 |
+
 Note : The downloads were obtained using R **cranlogs** package
 *from October 2012 until March 2020
 ** from October 2019 until March 2020
