@@ -1,5 +1,5 @@
 # Bayesian Network software review in R environment
-======
+====
 
 In this repository, you will find a software review about the most popular R packages to deal with Bayesian Network modeling. By performing an exhaustive examination of the users and functions manuals from the considered packages an overview regarding their functionalities, approaches, methods, algorithms, limitations, and added value, among others, is provided. Also, each of these packages was tested in the R environment using standards datasets to assess the points mentioned above.
 
@@ -30,6 +30,7 @@ Note : The downloads were obtained using R **cranlogs** package
 
 # References
 -----
+
 * Aragam, B., Gu, J., y Zhou, Q. (2019). Learning Large-Scale Bayesian Networks with the sparsebn Package. Journal of Statistical Software, 91(11), 1–38.
 * Balov, N., y Salzman, P. (2020). “How to use the catnet package”. Recuperado 30 de abril de 2020, de https://cran.r-project.org/web/packages/catnet/index.html.
 * Boettcher, S., y Dethlefsen, C. (2003). deal: A Package for Learning Bayesian Networks. Journal of Statistical Software, 8(20), 1-40.
