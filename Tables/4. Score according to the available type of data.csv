@@ -1,0 +1,13 @@
+﻿Scores;Discrete Bayesian Network;;;
+;Categorical variables;Ordinal variables;Gaussian Bayesian Network;Conditional Linear Gaussian Bayesian Network
+Log-Likelihood;x;;x;x
+Bayesian Dirichlet equivalent (BDeu);x;;;x
+Akaike Information Criterion (AIC);x;;x;x
+Bayesian Information Criterion (BIC);x;;x;x
+Predictive Log-Likelihood;x;;x;
+Sparse Dirichlet posterior density (BDs);x;;;
+Bayesian Dirichlet score with Jeffrey's prior (BDJ);x;;;
+Modified Bayesian Dirichlet equivalent score (MBDe);x;;;
+Locally averaged BDe score (BDla);x;;;
+K2;x;;;
+Equivalent Gaussian posterior density (BGe);;;x;

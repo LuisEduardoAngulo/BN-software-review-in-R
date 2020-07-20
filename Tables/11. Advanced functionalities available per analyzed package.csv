@@ -1,0 +1,55 @@
+﻿Package;Visualization;Prior Knowledge;Connection to;Parents constraint;Import-Export graphs
+bnstruct;Included through RgraphViz - plot();"*layering argument - vector containing the layers each node belongs to
+*mandatory.edges - binary matrix, indicates that an edge from node i to node j must be present in the final network";NRI;"*max.fanin argument - maximum number of parents for each node (only for hc, mmhc)
+*max.parents argument - maximum number of parents for each node (for sm, hc, mmhc)
+*max.parents.layers argument - matrix of available parents in each layer (only for sm)
+*layer.struct argument - 0/1 matrix for indicating which layers can contain parent nodes for nodes in a layer (mmhc, mmpc)";"BIF files
+DSC files
+NET files"
+catnet;Not included. The user must deploy Graphviz outside R;"*parentsPool argument specifies a set of possible parents for each node
+*fixedParents argument specifies edge inclusion rules
+*edgeProb argument specifies the probability of directed edge from j-th to i-th node
+*dirProb argument specifes prior directional probabilities";Graphviz;"maxParentSet argument (no constraint value)
+";"SIF files
+BIF files"
+sparsebn;Included, the network structure can be draw using any of the following objects: graphNEL, igraph, network - plotDAG ();"*whitelist argument - to establish the edges that must be present in the graph
+*blacklist argument - to establish the edges that must be absent in the graph
+";"bnlearn
+pcalg";NRI;"*to_igraph: conversion to and from the igraph package;
+*to_graphNEL: conversion to and from the graph package;
+*to_network: conversion to and from the network package;
+*to_bn: conversion to and from  the bnlearn package."
+pcalg;Included through RgraphViz o igraph;"*fixedGaps argument - the edge is guaranteed to be absent in the resulting graph
+*fixedEdges argument - the edge is guaranteed to be present in the resulting graph
+*addBgKnowledge ()  - add background knowledge to a CPDAG or PDAG";dagitty;NRI;NRI
+bnlearn;Included through RgraphViz o igraph;"*whitelist argument - arcs which are guaranteed to be either present
+*blacklist argument - arcs which are guaranteed to be either missing
+";"gRain
+graph
+igraph
+pcalg
+deal
+parallel";maxp argument (no constraint value) - only for score based algorithm;"BIF files
+DSC files
+NET files
+DOT files
+gRain objects
+pcalg objects"
+deal;Included through RgraphViz;"*specifygraph argument allows the user to insert and delete arrows (vía drawnetwork function)
+*drawnetwork() function, it is possible to mark (ban) some of the arrows
+*banlist argument contains the arrows that may not be allowed ";Hugin;"*Discrete nodes can only have other discrete nodes as their parents
+*Continuous nodes can have both continuous and discrete parents";NRI
+bnclassify;Included through RgraphViz;NRI;"caret
+mlr
+gRain
+graph
+bnlearn";NRI;"*Convert to a gRain object: as_grain()
+*Convert to a graphNEL object: as_graphnel()"
+gRain;Included through RgraphViz o graph;-;Hugin;-;"*Net files
+*bn objects (from bnlearn package) 
+*graphNEL object"
+BayesNetBP;Included through RgraphViz o graph;-;"bnlearn
+pcalg
+catnet
+deal
+RHugin";-;graphNEL object

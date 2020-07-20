@@ -1,0 +1,8 @@
+﻿Independence test;Discrete Bayesian Network;;;
+;Categorical variables;Ordinal variables;Gaussian Bayesian Network;Conditional Linear Gaussian Bayesian Network
+Mutual Information;x;;x;x
+Pearson's X^2 test for contingency tables;x;;;
+Shrinkage estimator for the mutual information;x;;x;x
+Jonckheere-Terpstra;;x;;
+Pearson's linear correlation;;;x;
+Fisher´s Z transformation;;;x;

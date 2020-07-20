@@ -1,0 +1,14 @@
+﻿Scenario;;;;Package;;;
+Goal;Type of data;Type of algorithm;Type of evidence;bnstruct;bnlearn;gRain;BayesNetBP
+Inference;Discrete ;Exact;Hard;x;;x;x
+;;;Soft;;;x;x
+;;Approximate;Hard;;x;;
+;;;Soft;;;;
+;Continuous ;Exact;Hard;x;;;x
+;;;Soft;;;;x
+;;Approximate;Hard;;x;;
+;;;Soft;;;;
+;Mixed;Exact;Hard;;;;x
+;;;Soft;;;;x
+;;Approximate;Hard;;x;;
+;;;Soft;;;;

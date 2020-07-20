@@ -1,0 +1,76 @@
+﻿Scenario;;;;;Package;;;;;;
+Goal;Method;Type of data;Dataset size;Missing data;catnet;sparsebn;pcalg;deal;bnclassify;bnstruct;bnlearn
+Structure learning;Constraint-based ;Discrete ;Small;Yes;;;x;;;x;x
+;;;;No;;;;;;x;x
+;;;Medium;Yes;;;;;;x;x
+;;;;No;;;;;;x;x
+;;;Large;Yes;;;;;;x;x
+;;;;No;;;;;;x;x
+;;Continuous ;Small;Yes;;;x;;;x;x
+;;;;No;;;;;;x;x
+;;;Medium;Yes;;;x;;;x;x
+;;;;No;;;;;;x;x
+;;;Large;Yes;;;x;;;x;x
+;;;;No;;;;;;x;x
+;;Mixed;Small;Yes;;;;;;;x
+;;;;No;;;;;;;x
+;;;Medium;Yes;;;;;;;x
+;;;;No;;;;;;;x
+;;;Large;Yes;;;;;;;x
+;;;;No;;;;;;;x
+;Score-based;Discrete ;Small;Yes;x;x;;;;x;x
+;;;;No;x;;;;;x;x
+;;;Medium;Yes;x;x;;;;x;x
+;;;;No;x;;;;;x;x
+;;;Large;Yes;x;x;;;;x;x
+;;;;No;x;;;;;x;x
+;;Continuous ;Small;Yes;;x;x;;;x;x
+;;;;No;;;;;;x;x
+;;;Medium;Yes;;x;x;;;x;x
+;;;;No;;;;;;x;x
+;;;Large;Yes;;x;x;;;x;x
+;;;;No;;;;;;x;x
+;;Mixed;Small;Yes;;;;x;;;x
+;;;;No;;;;;;;x
+;;;Medium;Yes;;;;x;;;x
+;;;;No;;;;;;;x
+;;;Large;Yes;;;;x;;;x
+;;;;No;;;;;;;x
+;Hybrid ;Discrete ;Small;Yes;;;;;;x;x
+;;;;No;;;;;;x;x
+;;;Medium;Yes;;;;;;x;x
+;;;;No;;;;;;x;x
+;;;Large;Yes;;;;;;x;x
+;;;;No;;;;;;x;x
+;;Continuous ;Small;Yes;;;;;;x;x
+;;;;No;;;;;;x;x
+;;;Medium;Yes;;;;;;x;x
+;;;;No;;;;;;x;x
+;;;Large;Yes;;;;;;x;x
+;;;;No;;;;;;x;x
+;;Mixed;Small;Yes;;;;;;;x
+;;;;No;;;;;;;x
+;;;Medium;Yes;;;;;;;x
+;;;;No;;;;;;;x
+;;;Large;Yes;;;;;;;x
+;;;;No;;;;;;;x
+;Classifier;Discrete ;Small;Yes;;;;;x;;x
+;;;;No;;;;;;;x
+;;;Medium;Yes;;;;;x;;x
+;;;;No;;;;;;;x
+;;;Large;Yes;;;;;x;;x
+;;;;No;;;;;;;x
+;;Continuous ;Small;Yes;;;;;;;x
+;;;;No;;;;;;;x
+;;;Medium;Yes;;;;;;;x
+;;;;No;;;;;;;x
+;;;Large;Yes;;;;;;;x
+;;;;No;;;;;;;x
+;;Mixed;Small;Yes;;;;;;;x
+;;;;No;;;;;;;x
+;;;Medium;Yes;;;;;;;x
+;;;;No;;;;;;;x
+;;;Large;Yes;;;;;;;x
+;;;;No;;;;;;;x
+;;;;;;;;;;;
+Note: database size classification = small (less than 20 variables), medium (between 20 and 50 variables) and large (more than 50 variables);;;;;;;;;;;

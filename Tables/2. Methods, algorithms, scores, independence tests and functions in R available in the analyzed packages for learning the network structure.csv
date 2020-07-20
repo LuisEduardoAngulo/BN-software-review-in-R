@@ -1,0 +1,112 @@
+﻿Packages;Method;Algorithm;Score;Independence Test;R function - DAG learning or selection
+catnet;Score-based learning;"Exhaustive Search (SearchOrder)
+Simulated Annealing (SA)";"Akaike Information Criterion (AIC)
+Bayesian Information Criterion (BIC)";-;"cnSearchOrder() - to search all posibles nets given a node order
+cnSearchSA() - to search using SA
+cnFind() - to find the best net given the complexity
+cnFindBIC () - to find the best net given BIC
+cnFindAIC ()- to find the best net given AIC"
+sparsebn;Score-based learning;Regularized maximum likelihood estimation;Log-likelihood;-;"estimate.dag() - to estimate the dags
+select() - to select the net"
+pcalg;"Constraint-based learning
+
+Score-based learning";"PC 
+Fast Causal Inference (FCI)
+Really Fast Causal Inference (RFCI) 
+Fast Casual Inference plus (FCIPLUS)
+Greddy Equivalence Search (GES) 
+Greddy Interventional Equivalence Search (GIES)
+Silander-Myllymäki (SM)";"Bayesian Information Criterion (BIC)
+Akaike Information Criterion (AIC)";"Mutual Information
+Fisher´s Z transformation";"pc() - estimate the equivalence class of a DAG using the PC Algorithm
+fci() - estimate a PAG by the FCI Algorithm
+rfci() - estimate an RFCI-PAG using the RFCI Algorithm
+fciplus() - estimate a PAG by the FCI+ Algorithm
+ges () - estimate the Markov equivalence class of a DAG using GES
+gies () - estimate Interventional Markov Equivalence Class of a DAG by GIES
+simy() - estimate Interventional Markov Equivalence Class of a DAG"
+deal;Score-based learning;"Greedy search
+Greedy search with random restarts (GSRR)";Bayesian-Dirichlet equivalent uniform (BDeu);-;"networkfamily() - to learn all posible networks
+autosearch() - deploys the greedy search algorithm
+heuristic() - deploys the GSRR algorithm"
+bnclassify;Score-based learning;"Naive bayes (NB)
+Hill-Climbing Tree Augmented Naive Bayes (HC-TAN)
+Hill-Climbing Super-Parent Tree Augmented Naive Bayes (HC-SP-TAN)
+Backward Sequential Elimination and Joining (BSEJ)
+Forward Sequential Selection and Joining (FSSJ)
+Hill-Climbing K-Dependence Bayesian Classifier (K-DB)
+Chow-Liu for ODEs (CL-ODE)
+One-dependence estimators (AODE)";"Akaike Information Criterion (AIC)
+Bayesian Information Criterion (BIC)
+Log-likelihood";-;"nb() - learn a naive Bayes network structure
+tan_hc() - learn a Hill-climbing tree augmented naive Bayes net structure
+tan_hcsp() - learn a Hill-climbing super-parent tree augmented naive Bayes
+bsej() - learn a structure using Backward sequential elimination and joining
+fssj()- learn a structure using Forward sequential selection and joining
+kdb() - learn a Hill-climbing k-dependence Bayesian classifier
+tan_cl() - learn a implementation of Chow-Liu for ODEs
+aode() - learn a One-dependence estimators"
+bnstruct;"Constraint-based learning
+
+Score-based learning";"Max-Min Parent and Children (MMPC)
+Hill Climbing (HC) 
+Max-Min Hill Climbing (MMHC)
+Silander-Myllymäki (SM)
+Structural Expectation-Maximization (SEM)";"Bayesian-Dirichlet equivalent uniform (BDeu)
+Akaike Information Criterion (AIC)
+Bayesian Information Criterion (BIC)";NI;"learn.network() - to choose the algorithms to learn the structure you must define the ""algo"" parameter"
+bnlearn;"Constraint-based learning
+
+Score-based learning";"PC
+Grow-Shrink (GS)
+Incremental Association Markov Blanket (IAMB)
+Fast Incremental Association (Fast-IAMB)
+Interleaved Incremental Association (Inter-IAMB)
+Incremental Association with FDR Correction (IAMB-FDR)
+Max-Min Parents & Children (MMPC)
+Semi-Interleaved Hiton-PC (SI-HITON-PC)
+Hybrid Parents & Childrens (HPC)
+Hill Climbing (HC)
+Tabu Search (Tabu)
+Max-Min Hill Climbing (MMHC)
+Hybrid HPC (H2PC)
+General 2-Phase Restricted Maximization (RSMAX2)
+Chow-Liu
+ARACNE
+naive Bayes
+Tree-Augmented naive Bayes (TAN)";"Log-likelihood
+Akaike Information Criterion (AIC)
+Bayesian Information Criterion (BIC)
+Multinomial predictive log-likelihood
+Bayesian-Dirichlet equivalent uniform (BDeu)
+Sparse Dirichlet posterior density (BDs)
+Dirichlet posterior density based on Jeffrey's prior (BDJ)
+Locally averaged BDe score (BDla)
+K2 ";"Mutual Information
+Fisher´s Z transformation
+Pearson's X^2 test for contingency tables
+Shrinkage estimator for the mutual information
+Jonckheere-Terpstra
+Pearson's linear correlation
+
+";"pc.stable() - deploys the PC algorithm
+gs() - deploys the GS algorithm
+iamb() - deploys the IAMB algorithm
+fast.iamb() - deploys the Fast-IAMB algorithm
+inter.iamb() - deploys the Inter-IAMB algorithm
+iamb.fdr() - deploys the IAMB-FDR algorithm
+mmpc() - deploys the MMPC algorithm
+si.hiton.pc() - deploys the SI-HITON-PC algorithm
+hpc() - deploys the HPC algorithm
+hc() - deploys the HC algorithm
+tabu() - deploys the Tabu algorithm
+mmhc() - deploys the MMHC algorithm
+h2pc() - deploys the H2PC algorithm
+rsmax2() - deploys the RSMAX2 algorithm
+chow.liu() - deploys the Chow-Liu algorithm
+aracne() - deploys the ARACNE algorithm
+naive.bayes() - learn a naive Bayes network structure
+tree.bayes() - learn a TAN structure
+structural.em() - deploys the SEM method"
+;;;;;
+NI = Information not provided by the manuals;;;;;

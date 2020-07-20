@@ -1,0 +1,14 @@
+﻿;Packages;;;;;;;;
+Functions;catnet;sparsebn;pcalg;deal;bnclassify;bnstruct;bnlearn;gRain;BayesNetBP
+Hand-operated specification of the network;x;;;x;;x;x;x;
+Random network generation;x;x;x;;;;x;;
+Import graphical objects ;x;;;x;;x;x;x;x
+Number of arcs in the network;;x;;;x;x;x;;
+Arc´s direction matrix or list ;x;x;x;;;;;;
+Adjacency matrix;;x;x;;;x;x;;
+Model string representation;;;;x;x;;x;;
+Network comparison;x;;x;;;x;x;;x
+Random sample generation;x;x;x;x;;x;x;x;x
+Random sample generation with perturbations;x;;;;;;;;
+Network learning using resampling techniques;;;;;;x;x;;
+Network learning with interventions;;x;x;;;;;;

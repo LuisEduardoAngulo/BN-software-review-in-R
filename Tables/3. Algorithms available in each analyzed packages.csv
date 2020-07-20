@@ -1,0 +1,35 @@
+﻿;;Packages;;;;;;
+Structure Learning Method;Structure Learning Algorithm;catnet;deal;sparsebn;pcalg;bnstruct;bnlearn;bnclassify
+Score-based learning;SearchOrder;x;;;;;;
+;SA;x;;;;;;
+;Regularized maximum likelihood estimation;;;x;;;;
+;GES;;;;x;;;
+;GIES;;;;x;;;
+;SM;;;;x;x;;
+;Greedy search - HC;;x;;;x;;
+;GSRR;;x;;;;x;
+;Tabu;;;;;;x;
+Constraint-based learning;PC ;;;;x;;x;
+;FCI;;;;x;;;
+;RFCI;;;;x;;;
+;FCIPLUS;;;;x;;;
+;MMPC;;;;;x;x;
+;GS;;;;;;x;
+;IAMB;;;;;;x;
+;Fast-IAMB;;;;;;x;
+;Inter-IAMB;;;;;;x;
+;IAMB-FDR;;;;;;x;
+;SI-HITON-PC;;;;;;x;
+;HPC;;;;;;x;
+Hybrid learning;MMHC;;;;;x;x;
+;H2PC;;;;;;x;
+;RSMAX2;;;;;;x;
+Others;SEM;;;;;x;x;
+Classifiers;NB;;;;;;x;x
+;"TAN; CL – ODE";;;;;;x;x
+;HC – TAN;;;;;;;x
+;HC – SP – TAN;;;;;;;x
+;BSEJ;;;;;;;x
+;FSSJ;;;;;;;x
+;K-DB;;;;;;;x
+;AODE;;;;;;;x

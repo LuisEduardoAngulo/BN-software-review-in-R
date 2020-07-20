@@ -1,0 +1,22 @@
+﻿Scenario;;;;Package;;;;;;
+Goal;Type of data;Dataset size;Missing data;catnet;sparsebn;pcalg;deal;bnclassify;bnstruct;bnlearn
+Parameter Learning;Discrete ;Small;Yes;;x;;;x;x;x
+;;;No;;;;;;x;x
+;;Medium;Yes;;x;;;x;x;x
+;;;No;;;;;;x;x
+;;Large;Yes;;x;;;x;x;x
+;;;No;;;;;;x;x
+;Continuous ;Small;Yes;;x;;;;x;x
+;;;No;;;;;;x;x
+;;Medium;Yes;;x;;;;x;x
+;;;No;;;;;;x;x
+;;Large;Yes;;x;;;;x;x
+;;;No;;;;;;x;x
+;Mixed;Small;Yes;;;;x;;;x
+;;;No;;;;;;;x
+;;Medium;Yes;;;;x;;;x
+;;;No;;;;;;;x
+;;Large;Yes;;;;x;;;x
+;;;No;;;;;;;x
+;;;;;;;;;;
+Note: catnet and pcalg packages do not have any mark due to in their manuals are not detailed what approach or method the follow for the parameter learning. Besides, there is not a standalone function to perform this task.;;;;;;;;;;
