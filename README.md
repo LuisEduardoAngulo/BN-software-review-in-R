@@ -27,6 +27,27 @@ Note : The downloads were obtained using R **cranlogs** package
 
 *** from October 2019 until March 2020
 
+Regarding the functionalities of each package:
+
+| Functionality | catnet | sparsebn | pcalg | deal | bnclassify | bnstruct | bnlearn | gRain | BayesNetBP | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Structure learning | yes | yes | yes | yes | yes | yes | yes | no | no |
+| Parameter learning | yes | yes | yes | yes | yes | yes | yes | no | no |
+| BN classifier learning | no | no | no | no | yes | no | yes | no | no |
+| Inference | no | no | no | no | no | yes | yes | yes | yes |
+| Discrete data | yes | yes | yes | yes | yes | yes | yes | yes | yes |
+| Continuous data | no | yes | yes | yes | no | yes | yes | no | yes |
+| Mixed data | no | no | no | yes | no | no | yes | no | yes |
+| Missing data | yes | no | no | no | yes | yes | yes | no | no |
+
+# Bayesian Network Learning
+---
+
+The learning process can be split into two tasks, namely: structure learning and parameter learning. In the following subsection, you will find the built tables for each particular task.
+
+### Stucture learning
+
+* Methods, algorithms, scores, independence tests and functions in R available in the analyzed packages for learning the network structure
 
 # References
 -----
