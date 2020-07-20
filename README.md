@@ -22,10 +22,9 @@ According to the task that they tackle in the modeling process, the packages can
 | BayesNetBP | 1.4.0 | 2017 | 2018 | 13,833 |	3,106 |
 
 Note : The downloads were obtained using R **cranlogs** package
-
 ** from October 2012 until March 2020
-
 *** from October 2019 until March 2020
+[Check the complete table here](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/1.%20Analyzed%20packages%2C%20complete%20table.csv)
 
 Regarding the functionalities of each package:
 
@@ -47,7 +46,25 @@ The learning process can be split into two tasks, namely: structure learning and
 
 ### Stucture learning
 
-* Methods, algorithms, scores, independence tests and functions in R available in the analyzed packages for learning the network structure
+* [Methods, algorithms, scores, independence tests and functions in R available in the analyzed packages for learning the network structure](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/2.%20Methods%2C%20algorithms%2C%20scores%2C%20independence%20tests%20and%20functions%20in%20R%20available%20in%20the%20analyzed%20packages%20for%20learning%20the%20network%20structure.csv)
+
+* [Algorithms available in each analyzed packages](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/3.%20Algorithms%20available%20in%20each%20analyzed%20packages.csv)
+
+* [Independence tests available per analyzed packages](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/7.%20Independence%20tests%20available%20per%20analyzed%20packages.csv)
+
+* [Independence tests application according to the available type of data](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/5.%20Independence%20tests%20according%20to%20the%20available%20type%20of%20data.csv)
+
+* [Scores available per analyzed packages](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/6.%20Scores%20available%20per%20analyzed%20packages.csv)
+
+* [Score application according to the available type of data](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/4.%20Score%20according%20to%20the%20available%20type%20of%20data.csv)
+
+### Parameter Learning
+
+* [Methods, approaches and functions in R for parameter learning available in the analyzed packages](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/8.%20Method%2C%20approach%20and%20functions%20in%20R%20for%20parameter%20learning%20available%20in%20the%20analyzed%20packages.csv)
+
+# Inference
+
+* [Method, approach and functions in R for parameter learning available in the analyzed packages](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/8.%20Method%2C%20approach%20and%20functions%20in%20R%20for%20parameter%20learning%20available%20in%20the%20analyzed%20packages.csv)
 
 # References
 -----
