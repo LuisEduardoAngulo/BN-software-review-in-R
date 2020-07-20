@@ -1,7 +1,7 @@
 # Bayesian Network software review in R environment
 -----
 
-In this repository, you will find a software review about the most popular R packages to deal with Bayesian Network modeling. By performing an exhaustive examination of the users and functions manuals from the considered packages an overview regarding their functionalities, approaches, methods, algorithms, limitations, and added value, among others, is provided. Also, each of these packages was tested in the R environment using standards datasets to assess the points mentioned above.
+In this repository, you will find a software review about the most popular R packages to deal with Bayesian Network modeling. By performing an exhaustive examination of the user´s and functions manuals from the considered packages, an overview regarding their functionalities, approaches, methods, algorithms, limitations, and added value, among others, is provided. Also, each of these packages was tested in the R environment using standards datasets to assess the points mentioned above.
 
 Using this information, a set of tables were built to guide the users about which package they can work with considering the characteristics of the dataset they have available, the work that they want to perform, the presence of missing data, and the type of data, among others. Likewise, another set of tables are provided that serve as an inventory of the algorithms, methods, scores, independence test and others, implemented in each package.
 
@@ -45,7 +45,7 @@ Regarding the functionalities of each package:
 # Bayesian Network Learning
 ---
 
-The learning process can be split into two tasks, namely: structure learning and parameter learning. In the following subsection, you will find the built tables for each particular task.
+The learning process can be split into two tasks, namely: structure learning and parameter learning. In the following subsection, it is possible to find the built tables for each particular task. These tables can be seen as an inventory of the methods, algorithms, approaches and others, implemented in the analyzed packages.
 
 ### Stucture learning
 
@@ -66,6 +66,22 @@ The learning process can be split into two tasks, namely: structure learning and
 * [Methods, approaches and functions in R for parameter learning available in the analyzed packages](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/8.%20Method%2C%20approach%20and%20functions%20in%20R%20for%20parameter%20learning%20available%20in%20the%20analyzed%20packages.csv)
 
 # Inference
+
+* [Type of algorithm, algorithm, type of query and type of evidence enabled in the packages available for inference](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/9.%20Type%20of%20algorithm%2C%20algorithm%2C%20type%20of%20query%20and%20type%20of%20evidence%20enabled%20in%20the%20packages%20available%20for%20inference.csv)
+
+#Employment and comparison among packages
+
+This section shows a summary of some basic and advanced functionalities included in the analyzed packages. Also, it presents a set of tables that have the purpose of lead the users about which package can be used according to the task, dataset characteristics and others, regarding the Bayesian Network modeling process.
+
+* [Basic functions available per analyzed packages](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/10.%20Basic%20functions%20available%20per%20analyzed%20packages.csv)
+
+* [Advanced functionalities available per analyzed package](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/11.%20Advanced%20functionalities%20available%20per%20analyzed%20package.csv)
+
+* [Guide table for the use of the packages available for structure learning](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/12.%20Guide%20table%20for%20the%20use%20of%20the%20packages%20available%20for%20structure%20learning.csv)
+
+* [Guide table for the use of the packages available for parameter learning](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/13.%20Guide%20table%20for%20the%20use%20of%20the%20packages%20available%20for%20parameter%20learning.csv)
+
+* [Guide table for the use of the packages available for inference](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/14.%20Guide%20table%20for%20the%20use%20of%20the%20packages%20available%20for%20inference.csv)
 
 # References
 -----
