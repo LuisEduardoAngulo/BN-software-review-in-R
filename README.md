@@ -61,25 +61,25 @@ The learning process can be split into two tasks, namely: structure learning and
 
 * [Scores application according to the available type of data](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/4.%20Score%20according%20to%20the%20available%20type%20of%20data.csv)
 
-* [Guide table for the use of the packages available for structure learning](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/12.%20Guide%20table%20for%20the%20use%20of%20the%20packages%20available%20for%20structure%20learning.csv)
-
 ### Parameter Learning
 
 * [Methods, approaches and functions in R for parameter learning available in the analyzed packages](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/8.%20Method%2C%20approach%20and%20functions%20in%20R%20for%20parameter%20learning%20available%20in%20the%20analyzed%20packages.csv)
-
-* [Guide table for the use of the packages available for parameter learning](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/13.%20Guide%20table%20for%20the%20use%20of%20the%20packages%20available%20for%20parameter%20learning.csv)
 
 # Inference
 
 * [Type of algorithm, algorithm, type of query and type of evidence enabled in the packages available for inference](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/9.%20Type%20of%20algorithm%2C%20algorithm%2C%20type%20of%20query%20and%20type%20of%20evidence%20enabled%20in%20the%20packages%20available%20for%20inference.csv)
 
-#Employment and comparison among packages
+# Employment and comparison among packages
 
 This section shows a summary of some basic and advanced functionalities included in the analyzed packages. Also, it presents a set of tables that have the purpose of lead the users about which package can be used according to the task, dataset characteristics and others, regarding the Bayesian Network modeling process.
 
 * [Basic functions available per analyzed packages](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/10.%20Basic%20functions%20available%20per%20analyzed%20packages.csv)
 
 * [Advanced functionalities available per analyzed package](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/11.%20Advanced%20functionalities%20available%20per%20analyzed%20package.csv)
+
+* [Guide table for the use of the packages available for structure learning](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/12.%20Guide%20table%20for%20the%20use%20of%20the%20packages%20available%20for%20structure%20learning.csv)
+
+* [Guide table for the use of the packages available for parameter learning](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/13.%20Guide%20table%20for%20the%20use%20of%20the%20packages%20available%20for%20parameter%20learning.csv)
 
 * [Guide table for the use of the packages available for inference](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/14.%20Guide%20table%20for%20the%20use%20of%20the%20packages%20available%20for%20inference.csv)
 
