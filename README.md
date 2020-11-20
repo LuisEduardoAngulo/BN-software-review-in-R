@@ -1,7 +1,7 @@
 # Bayesian Network software review in R environment
 -----
 
-In this repository, you will find a software review about the most popular R packages to deal with Bayesian Network modeling. By performing an exhaustive examination of the user´s and functions manuals from the considered packages, an overview regarding their functionalities, approaches, methods, algorithms, limitations, and added value, among others, is provided. Also, each of these packages was tested in the R environment using standards datasets to assess the points mentioned above.
+In this repository, you will find a software review about the most popular R packages to deal with **Bayesian Network** modeling. By performing an exhaustive examination of the user´s and functions manuals from the considered packages, an overview regarding their functionalities, approaches, methods, algorithms, limitations, and added value, among others, is provided. Also, each of these packages was tested in the R environment using standards datasets to assess the points mentioned above.
 
 Using this information, a set of tables were built to guide the users about which package they can work with considering the characteristics of the dataset they have available, the work that they want to perform, the presence of missing data, and the type of data, among others. Likewise, another set of tables are provided that serve as an inventory of the algorithms, methods, scores, independence test and others, implemented in each package.
 
@@ -71,7 +71,7 @@ The learning process can be split into two tasks, namely: structure learning and
 
 # Employment and comparison among packages
 
-This section shows a summary of some basic and advanced functionalities included in the analyzed packages. Also, it presents a set of tables that have the purpose of lead the users about which package can be used according to the task, dataset characteristics and others, regarding the Bayesian Network modeling process.
+This section shows a summary of some basic and advanced functionalities included in the analyzed packages. Also, it presents a set of tables that have the purpose of lead the users about which package can be used according to the task, dataset characteristics and others, regarding the **Bayesian Network** modeling process.
 
 * [Basic functions available per analyzed packages](https://github.com/LuisEduardoAngulo/BN-software-review-in-R/blob/master/Tables/10.%20Basic%20functions%20available%20per%20analyzed%20packages.csv)
 
