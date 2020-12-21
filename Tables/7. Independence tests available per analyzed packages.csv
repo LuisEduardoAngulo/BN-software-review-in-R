@@ -1,6 +1,6 @@
 ,,,,,
 Structure Learning Method,Independence test,pcalg,bnstruct,bnlearn
-Constraint-based learning,Mutual Information,x,,x
+,Constraint-based learning,Mutual Information,x,,x
 ,Pearson's X^2 test for contingency tables,,,x
 ,Shrinkage estimator for the mutual information,,,x
 ,Jonckheere-Terpstra,,,x
