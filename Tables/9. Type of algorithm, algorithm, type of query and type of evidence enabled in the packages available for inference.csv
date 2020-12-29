@@ -2,5 +2,5 @@
 BayesNetBP,Exact,Lauritzen and Spiegelhalter - LS or message passing,Marginal and joint and conditional,Hard and soft evidence
 bnstruct,Exact,Lauritzen and Spiegelhalter - LS or message passing,Marginal and conditional,Hard evidence
 bnlearn,Approximate,"Likelihood weighting 
-Logic sampling",Marginal and joint and conditional;Hard evidence
+Logic sampling",Marginal and joint and conditional,Hard evidence
 gRain,Exact,Lauritzen and Spiegelhalter - LS or message passing,Marginal and joint and conditional,Hard and soft evidence
