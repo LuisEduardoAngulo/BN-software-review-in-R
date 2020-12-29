@@ -4,7 +4,7 @@ sparsebn,0.1.0,2016,2019,Yes,Yes,Yes,12.116,3.179,https://github.com/itsrainingd
 pcalg,2.6.10,2006,2020,Yes,Yes,Yes,89.004,13.598,,http://pcalg.r-forge.r-project.org/,https://cran.r-project.org/web/packages/pcalg/index.html
 deal,1.2.39,2002,2018,Yes,No,Yes,53.857,6.358,,,https://cran.r-project.org/web/packages/deal/index.html
 bnclassify,0.4.5,2015,2020,Yes,Yes,Yes,27.325,5.528,http://github.com/bmihaljevic/bnclassify,,https://cran.r-project.org/web/packages/bnclassify/index.html
-bnstruct,1.0.6,2016;2019,Yes,Yes,Yes,27.226;4.717,http://github.com/sambofra/bnstruct,,https://cran4.r-project.org/web/packages/bnstruct/index.html
+bnstruct,1.0.6,2016,2019,Yes,Yes,Yes,27.226,4.717,http://github.com/sambofra/bnstruct,,https://cran4.r-project.org/web/packages/bnstruct/index.html
 bnlearn,4.5,2007,2019,Yes,Yes,Yes,259.676,40.783,,https://www.bnlearn.com/,https://cran.r-project.org/web/packages/bnlearn/index.html
 gRain,1.3.4,2008,2020,Yes,Yes,Yes,114.351,22.196,,http://people.math.aau.dk/~sorenh/software/gR/,https://cran.r-project.org/web/packages/gRain/index.html
 BayesNetBP,1.4.0,2017,2018,Yes,No,Yes,13.833,3.106,https://github.com/hyu-ub/BayesNetBP,,https://cran.r-project.org/web/packages/BayesNetBP/index.html
