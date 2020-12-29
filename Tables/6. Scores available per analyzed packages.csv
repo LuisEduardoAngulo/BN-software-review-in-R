@@ -1,13 +1,13 @@
-﻿Structure Learning Method;Score;Packages;;;;;;
-;;catnet;deal;sparsebn;pcalg;bnstruct;bnlearn;bnclassify
-Score-based learning;Log-likelihood;;x;x;;;x;x
-;AIC;x;;;x;x;x;x
-;BIC;x;;;x;x;x;x
-;BDeu;;x;;;x;x;
-;Predictive log-likelihood;;;;;;x;
-;BDs;;;;;;x;
-;BDJ;;;;;;x;
-;MBDe;;;;;;x;
-;BDla;;;;;;x;
-;K2;;;;;;x;
-;BGe;;;;;;x;
+﻿Structure Learning Method,Score,Packages,,,,,,
+,,catnet,deal,sparsebn,pcalg,bnstruct,bnlearn,bnclassify
+Score-based learning,Log-likelihood,,x,x,,,x,x
+,AIC,x,,,x,x,x,x
+,BIC,x,,,x,x,x,x
+,BDeu,,x,,,x,x,
+,Predictive log-likelihood,,,,,,x,
+,BDs,,,,,,x,
+,BDJ,,,,,,x,
+,MBDe,,,,,,x,
+,BDla,,,,,,x,
+,K2,,,,,,x,
+,BGe,,,,,,x,
