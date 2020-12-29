@@ -7,7 +7,7 @@ sparsebn,MLE,"For continuous variables: least squares regression
 pcagl,NI,NI,NI
 bnstruct,"MLE
 EM","MAP (Maximum A Posteriori)
-Expectation-Maximization (EM)","learn.network() - is included
+Expectation-Maximization (EM)","learn.network() - parameter learning is included /
 learn.params () - for this task alone"
 bnclassify,"Maximum likelihood
 Bayesian estimation",Dirichlet,lp()
