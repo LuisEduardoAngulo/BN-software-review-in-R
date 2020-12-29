@@ -5,7 +5,7 @@ deal,Bayesian estimation,"Prior distribution for discrete variables: Dirichlet
 sparsebn,MLE,"For continuous variables: least squares regression
 /For discrete variables: multi-logit regression",estimate.parameters()
 pcagl,NI,NI,NI
-bnstruct,"MLE
+bnstruct,"MLE and
 EM","MAP (Maximum A Posteriori) and
 Expectation-Maximization (EM)","learn.network() - parameter learning is included /
 learn.params () - for this task alone"
